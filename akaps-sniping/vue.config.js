@@ -3,6 +3,6 @@
 //   transpileDependencies: true
 // })
 module.exports = {
-  publicPath: "/apaks-sniping/",
+  publicPath: "/akaps-sniping/",
   outputDir: "docs",
 };
