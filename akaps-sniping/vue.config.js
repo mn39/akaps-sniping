@@ -1,8 +1,8 @@
-// const { defineConfig } = require('@vue/cli-service')
-// module.exports = defineConfig({
-//   transpileDependencies: true
-// })
-module.exports = {
-  publicPath: "/akaps-sniping/",
-  outputDir: "docs",
-};
+const { defineConfig } = require('@vue/cli-service')
+module.exports = defineConfig({
+  transpileDependencies: true
+})
+// module.exports = {
+//   publicPath: "/akas-sniping/",
+//   outputDir: "docs",
+// };
