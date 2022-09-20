@@ -7,6 +7,6 @@
 //   //   }
 // });
 module.exports = {
-  publicPath: "/akas-sniping/",
+  publicPath: "/akaps-sniping/",
   outputDir: "docs",
 };
